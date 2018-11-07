@@ -16,6 +16,8 @@ calculatesFarePrice (start, destination) {
 
     if (dist <= 400) {
       return 0;
+    } else if {
+
     } else if (dist > 2000 && dist < 2500) {
       return 'I will gladly take your thirty bucks.';
     } else if (dist > 2000) {
