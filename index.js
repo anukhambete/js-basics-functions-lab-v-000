@@ -21,6 +21,6 @@ calculatesFarePrice (start, destination) {
     } else if (dist > 2000 && dist < 2500) {
       return 25;
     } else if (dist > 2000) {
-      return 'No can do.';
+      return 'cannot travel that far';
     }
 }
