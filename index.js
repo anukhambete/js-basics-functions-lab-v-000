@@ -1,4 +1,4 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks (number) {
+function distanceFromHqInBlocks (block) {
 
 }
